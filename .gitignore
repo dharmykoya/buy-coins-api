@@ -1,0 +1,13 @@
+# Distribution / packaging
+.vscode
+__pycache__/
+*.pyc
+.idea/
+db.sqlite3
+.DS_Store
+.pytest_cache
+htmlcov/
+.coverage
+.coveragerc
+env
+db.sqlite3
