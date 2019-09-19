@@ -1,5 +1,7 @@
-# buy-coins-api-js
+# buy-coins-api
 [![Build Status](https://travis-ci.com/dharmykoya/buy-coins-api.svg?branch=ch-project-readme)](https://travis-ci.com/dharmykoya/buy-coins-api)
+
+This grapghql API returns the cost of buying and selling a bitcoin using the [coindesk API](https://api.coindesk.com/v1/bpi/currentprice.json)
 
 ## API documemation links
 
