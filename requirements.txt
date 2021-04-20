@@ -27,7 +27,7 @@ post==2019.4.13
 promise==2.2.1
 psycopg2==2.8.3
 public==2019.4.13
-py==1.8.0
+py==1.10.0
 pycodestyle==2.5.0
 pylint==2.3.1
 pyparsing==2.4.2
